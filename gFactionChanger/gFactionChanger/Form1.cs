@@ -18,6 +18,8 @@ namespace gFactionChanger
             InitializeComponent();
         }
 
+        gFactiond gFactiond = new gFactiond();
+
         string path;
         UInt16 version;
         int[] lst = new int[12];
@@ -145,6 +147,9 @@ namespace gFactionChanger
         private void Form1_Load(object sender, EventArgs e)
         {
             this.Text = "gFaction Changer";
+            gFactiond.getFormController().setEditData(textBox2, textBox3, textBox4, textBox5, textBox6, textBox7, textBox8, textBox9, textBox10, textBox11, textBox12);
+            gFactiond.getFormController().setEditTime(numericUpDown1, numericUpDown2, numericUpDown3);
+            gFactiond.getFormController().setVersionText(label17);
         }
 
         private void Writer(BinaryWriter write, int pos1, int pos2, int pos3)
