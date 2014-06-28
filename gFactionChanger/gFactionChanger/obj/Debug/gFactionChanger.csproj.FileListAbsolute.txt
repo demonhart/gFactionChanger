@@ -1,0 +1,9 @@
+c:\users\demonhart_2\documents\visual studio 2012\Projects\gFactionChanger\gFactionChanger\bin\Debug\gFactionChanger.exe.config
+c:\users\demonhart_2\documents\visual studio 2012\Projects\gFactionChanger\gFactionChanger\bin\Debug\gFactionChanger.exe
+c:\users\demonhart_2\documents\visual studio 2012\Projects\gFactionChanger\gFactionChanger\bin\Debug\gFactionChanger.pdb
+c:\users\demonhart_2\documents\visual studio 2012\Projects\gFactionChanger\gFactionChanger\obj\Debug\gFactionChanger.csprojResolveAssemblyReference.cache
+c:\users\demonhart_2\documents\visual studio 2012\Projects\gFactionChanger\gFactionChanger\obj\Debug\gFactionChanger.Form1.resources
+c:\users\demonhart_2\documents\visual studio 2012\Projects\gFactionChanger\gFactionChanger\obj\Debug\gFactionChanger.Properties.Resources.resources
+c:\users\demonhart_2\documents\visual studio 2012\Projects\gFactionChanger\gFactionChanger\obj\Debug\gFactionChanger.csproj.GenerateResource.Cache
+c:\users\demonhart_2\documents\visual studio 2012\Projects\gFactionChanger\gFactionChanger\obj\Debug\gFactionChanger.exe
+c:\users\demonhart_2\documents\visual studio 2012\Projects\gFactionChanger\gFactionChanger\obj\Debug\gFactionChanger.pdb
