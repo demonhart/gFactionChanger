@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 
@@ -149,7 +143,7 @@ namespace gFactionChanger
             this.Text = "gFaction Changer";
             gFactiond.getFormController().setEditData(textBox2, textBox3, textBox4, textBox5, textBox6, textBox7, textBox8, textBox9, textBox10, textBox11, textBox12);
             gFactiond.getFormController().setEditTime(numericUpDown1, numericUpDown2, numericUpDown3);
-            gFactiond.getFormController().setVersionText(label17);
+            gFactiond.getFormController().setFileVersion(label17);
         }
 
         private void Writer(BinaryWriter write, int pos1, int pos2, int pos3)

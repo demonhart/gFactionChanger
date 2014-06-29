@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+﻿using System.Windows.Forms;
 
 namespace gFactionChanger
 {
@@ -35,12 +30,12 @@ namespace gFactionChanger
             return this.EdtiTime;
         }
 
-        public void setVersionText(Label version)
+        public void setFileVersion(Label version)
         {
             this.version = version;
         }
 
-        public Label getVersionText()
+        public Label getFileVersion()
         {
             return this.version;
         }
